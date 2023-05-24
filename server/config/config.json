@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "!@345678qwer",
+    "database": "MachineInventoryDb",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}
